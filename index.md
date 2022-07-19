@@ -100,7 +100,7 @@
 
 ## Audiobook to Audioplay
 
-<div style="display:inline;"> <div style="color:darkred; display:inline; font-weight: bold;" >Stage Instructions:</div> Ghost beckons HAMLET
+<div style="display:inline;"> <div style="color:darkred; display:inline; font-weight: bold;" >STAGE INSTRUCTIONS:</div> Ghost beckons Hamlet
 <br><div style="color:darkorange; display:inline; font-weight: bold;" >HORATIO:</div> It beckons you to go away with it, as if it some impartment did desire to you alone.
 <br><div style="color:blue; display:inline; font-weight: bold;" >MARCELLUS:</div> Look, with what courteous action it waves you to a more removed ground: But do not go with it.
 <br><div style="color:darkorange; display:inline; font-weight: bold;" >HORATIO:</div> No, by no means.
@@ -120,7 +120,18 @@
     </table>
     
  <br>  <br> <br>  <br>
-    
+   
+   
+### Copyright Notices
+
 The voice used for generating the samples in the Voice Unification section is based on Hanns Zischler's recordings which come with the following copyright notice:
 
 *Florian Michel (Ton) und Hanns Zischler (Sprecher) im Auftrag des Deutschen Literaturarchivs Marbach (2020)*
+
+ <br>
+
+The text we used in the Audiobook to Audioplay section is taken from William Shakespeare's Hamlet.
+
+ <br>
+
+The reference samples from the Marked Tonicity section is taken from the ADEPT corpus (https://arxiv.org/abs/2106.08321)
