@@ -78,9 +78,9 @@
         <tr>
             <td>Reference Human Speech</td>
             <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Copy Style, but make each Character have a unique voice</td>
+            <td>Copy Style, but give each Character a unique voice</td>
             <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Copy Style, but make each Character have a unique voice</td>
+            <td>Copy Style, but give each Character another unique voice</td>
             <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
