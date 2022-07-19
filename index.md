@@ -68,17 +68,39 @@
 
 ## Preserving Meaning in Resynthesis
 
+  <table style='width: 100%;'>
+        <tr>
+            <td>Reference Human Speech</td>
+            <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style, but give each Character a unique voice</td>
+            <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style, but give each Character another unique voice</td>
+            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+        </tr>
+    </table>
+
 ## Voice Unification
+
+  <table style='width: 100%;'>
+        <tr>
+            <td>Reference Human Speech</td>
+            <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style, but give each Character a unique voice</td>
+            <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Copy Style, but give each Character another unique voice</td>
+            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+        </tr>
+    </table>
 
 ## Audiobook to Audioplay
 
 <div style="display:inline;"> Ghost beckons HAMLET
-<br>HORATIO: It beckons you to go away with it, as if it some impartment did desire to you alone.
-<br>MARCELLUS: Look, with what courteous action it waves you to a more removed ground: But do not go with it.
-<br>HORATIO: No, by no means.
-<br>HAMLET: It will not speak; then I will follow it.
-<br>HORATIO: Do not, my lord.
-<br>HAMLET: Why, what should be the fear? I do not set my life in a pin's fee; and for my soul, what can it do to that, being a thing immortal as itself? It waves me forth again: I'll follow it. <br>  <br> </div>
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> It beckons you to go away with it, as if it some impartment did desire to you alone.
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >MARCELLUS:</div> Look, with what courteous action it waves you to a more removed ground: But do not go with it.
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> No, by no means.
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HAMLET:</div> It will not speak; then I will follow it.
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> Do not, my lord.
+<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HAMLET:</div> Why, what should be the fear? I do not set my life in a pin's fee; and for my soul, what can it do to that, being a thing immortal as itself? It waves me forth again: I'll follow it. <br>  <br> </div>
 
 <table style='width: 100%;'>
         <tr>
