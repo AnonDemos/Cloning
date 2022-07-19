@@ -73,28 +73,28 @@
   <table style='width: 100%;'>
         <tr>
             <td>Reference Human Speech</td>
-            <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sarcasm/human.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Naive Resynthesis</td>
-            <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sarcasm/incorrect.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Different voice, same Prosody</td>
-            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sarcasm/correct.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
 ## Voice Unification
 
-<div style="display:inline;"> Quellen hattest du ihn, hattest  <br>  <br> </div>
+<div style="display:inline;"> »Quellen hattest du ihm, hattest dem Flüchtigen kühle Schatten geschenkt.«  <br>  <br> </div>
 
   <table style='width: 100%;'>
         <tr>
-            <td>Reference 1 Speech</td>
-            <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
-            <td>Reference 2</td>
-            <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference 1 Poetry Reading</td>
+            <td><audio controls="" ><source src="resources/poetry/s2_p1_spk1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference 1 converted to shared Voice</td>
-            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/poetry/s2_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Reference 2 Poetry Reading</td>
+            <td><audio controls="" ><source src="resources/poetry/s2_p1_spk1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference 2 converted to shared Voice</td>
-            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/poetry/s2_p1_ref2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
 
@@ -111,10 +111,16 @@
 <table style='width: 100%;'>
         <tr>
             <td>Reference Human Speech</td>
-            <td><audio controls="" ><source src="resources/human/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/audioplay/read.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Copy Style, but give each Character a unique voice</td>
-            <td><audio controls="" ><source src="resources/same_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/audioplay/play1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Copy Style, but give each Character another unique voice</td>
-            <td><audio controls="" ><source src="resources/diff_voice_same_style/3.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/audioplay/play2.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
+    
+ <br>  <br> <br>  <br>
+    
+The voice used for generating the samples in the Voice Unification section is based on Hanns Zischler's recordings which come with the following copyright notice:
+
+*Florian Michel (Ton) und Hanns Zischler (Sprecher) im Auftrag des Deutschen Literaturarchivs Marbach (2020)*
