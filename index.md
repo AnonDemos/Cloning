@@ -94,13 +94,13 @@
 
 ## Audiobook to Audioplay
 
-<div style="display:inline;"> Ghost beckons HAMLET
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> It beckons you to go away with it, as if it some impartment did desire to you alone.
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >MARCELLUS:</div> Look, with what courteous action it waves you to a more removed ground: But do not go with it.
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> No, by no means.
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HAMLET:</div> It will not speak; then I will follow it.
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HORATIO:</div> Do not, my lord.
-<br><div style="color:darkgreen; display:inline; font-weight: bold;" >HAMLET:</div> Why, what should be the fear? I do not set my life in a pin's fee; and for my soul, what can it do to that, being a thing immortal as itself? It waves me forth again: I'll follow it. <br>  <br> </div>
+<div style="display:inline;"> <div style="color:darkgreen; display:inline; font-weight: bold;" >Stage Instructions:</div> Ghost beckons HAMLET
+<br><div style="color:darkblue; display:inline; font-weight: bold;" >HORATIO:</div> It beckons you to go away with it, as if it some impartment did desire to you alone.
+<br><div style="color:darkorange; display:inline; font-weight: bold;" >MARCELLUS:</div> Look, with what courteous action it waves you to a more removed ground: But do not go with it.
+<br><div style="color:darkblue; display:inline; font-weight: bold;" >HORATIO:</div> No, by no means.
+<br><div style="color:darkred; display:inline; font-weight: bold;" >HAMLET:</div> It will not speak; then I will follow it.
+<br><div style="color:darkblue; display:inline; font-weight: bold;" >HORATIO:</div> Do not, my lord.
+<br><div style="color:darkred; display:inline; font-weight: bold;" >HAMLET:</div> Why, what should be the fear? I do not set my life in a pin's fee; and for my soul, what can it do to that, being a thing immortal as itself? It waves me forth again: I'll follow it. <br>  <br> </div>
 
 <table style='width: 100%;'>
         <tr>
