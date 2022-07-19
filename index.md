@@ -75,7 +75,7 @@
             <td>Reference Human Speech</td>
             <td><audio controls="" ><source src="resources/sarcasm/human.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Naive Resynthesis</td>
-            <td><audio controls="" ><source src="resources/sarcasm/incorrect.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/sarcasm/wrong.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Different voice, same Prosody</td>
             <td><audio controls="" ><source src="resources/sarcasm/correct.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
