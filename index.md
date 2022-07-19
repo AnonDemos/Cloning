@@ -88,7 +88,7 @@
   <table style='width: 100%;'>
         <tr>
             <td>Reference 1 Poetry Reading</td>
-            <td><audio controls="" ><source src="resources/poetry/s2_p2_spk1.wav" type="audio/wav"></audio></td></tr><tr>
+            <td><audio controls="" ><source src="resources/poetry/s2_p1_spk1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference 1 converted to shared Voice</td>
             <td><audio controls="" ><source src="resources/poetry/s2_p1_ref1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Reference 2 Poetry Reading</td>
