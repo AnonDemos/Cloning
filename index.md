@@ -3,15 +3,8 @@
   margin-right: auto;
   width: 60%;" />
 
-## Official Code
 
-[https://github.com/DigitalPhonetics/IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan)
-
-## Interactive Demo
-
-[Hosted on Huggingface🤗 Spaces](https://huggingface.co/spaces/Flux9665/SpeechCloning)
-
-## Audio Samples
+## Marked Tonicity Audio Samples
 
 - <div style="display:inline;"> Don't forget what they said yesterday, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > two </div><div style="display:inline;"> policemen is excessive. <br>  <br> </div>
 
@@ -72,8 +65,14 @@
             <td><audio controls="" ><source src="resources/same_voice_diff_style/3.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
-    
-- <div style="display:inline;"> Ghost beckons HAMLET
+
+## Preserving Meaning in Resynthesis
+
+## Voice Unification
+
+## Audiobook to Audioplay
+
+<div style="display:inline;"> Ghost beckons HAMLET
 <br>HORATIO: It beckons you to go away with it, as if it some impartment did desire to you alone.
 <br>MARCELLUS: Look, with what courteous action it waves you to a more removed ground: But do not go with it.
 <br>HORATIO: No, by no means.
