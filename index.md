@@ -124,14 +124,10 @@
    
 ### Copyright Notices
 
+The text we used in the Audiobook to Audioplay section is taken from William Shakespeare's Hamlet.
+
+The reference samples from the Marked Tonicity section is taken from the ADEPT corpus (https://arxiv.org/abs/2106.08321)
+
 The voice used for generating the samples in the Voice Unification section is based on Hanns Zischler's recordings which come with the following copyright notice:
 
 *Florian Michel (Ton) und Hanns Zischler (Sprecher) im Auftrag des Deutschen Literaturarchivs Marbach (2020)*
-
- <br>
-
-The text we used in the Audiobook to Audioplay section is taken from William Shakespeare's Hamlet.
-
- <br>
-
-The reference samples from the Marked Tonicity section is taken from the ADEPT corpus (https://arxiv.org/abs/2106.08321)
