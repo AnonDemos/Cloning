@@ -116,6 +116,8 @@
             <td><audio controls="" ><source src="resources/audioplay/play1.wav" type="audio/wav"></audio></td></tr><tr>
             <td>Copy Style, but give each Character another unique voice</td>
             <td><audio controls="" ><source src="resources/audioplay/play2.wav" type="audio/wav"></audio></td></tr><tr>
+            <td>Just for Fun: Playing all 3 simultaneously</td>
+            <td><audio controls="" ><source src="resources/audioplay/all_at_once.wav" type="audio/wav"></audio></td></tr><tr>
         </tr>
     </table>
     
