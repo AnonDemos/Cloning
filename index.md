@@ -1,3 +1,9 @@
+<img align="center" src="resources/toucan.png" style="  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;" />
+
+
 ## Marked Tonicity Audio Samples
 
 - <div style="display:inline;"> Don't forget what they said yesterday, </div> <div style="color:darkgreen; display:inline; font-weight: bold;" > two </div><div style="display:inline;"> policemen is excessive. <br>  <br> </div>
