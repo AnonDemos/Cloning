@@ -1,4 +1,4 @@
-<img align="center" src="resources/toucan.png" style="  display: block;
+<img align="center" src="resources/literally_one_white_pixel.png" style="  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 60%;" />
